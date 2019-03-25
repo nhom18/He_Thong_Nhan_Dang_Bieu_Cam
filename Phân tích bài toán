@@ -1,0 +1,13 @@
+Phân tích bài toán nhận dạng biểu cảm cho khuôn mặt thông qua hình ảnh hoặc video
+1.Chuẩn bị cơ sở dữ liệu là các khuôn mặt có các biểu cảm khác nhau mô tả những biểu cảm khác nhau, cơ sở dữ liệu này
+thì mình sẽ trực tiếp tìm kiếm hoặc các bạn có nguồn cơ sở dữ liệu ở đâu thì đưa lên để mọi người cùng tham khảo.
+2. sau khi đã có dữ liệu tầm 100 hay đến 1000 ảnh với 7 cảm xúc khác nhau như: Tức giận, buồn, vui, sợ hãi, bất ngờ, khinh thường
+ngạc nhiên,sau đó mình sẽ phân loại và gán nhãn chia ra 7 lớp khác nhau, tạm thờ sẽ là 7 cảm xúc như vậy
+-nếu trong nhóm ai có bất kỳ ý kiến gì thì có thể thêm ở dưới để mình thêm
+3.xử lý hình ảnh, sẽ sử dụng thư viện open cv để tìm kiếm khuôn mặt
+4.chuyển đổi tập dữ liệu hình ảnh vừa xử lý về dạng vevtor để phân loại hình ảnh
+5.Đào tạo và kiểm tra dữ liệu:Sử dụng tập dữ liệu là 7 lớp dữ liệu hình ảnh để tranning cho máy nhận dạng tri thức
+
+-Tạm thời công việc là như vậy, vài hôm nữa mình sẽ phân công thêm công việc cho mọi người sau khi các thành viên trong nhóm
+đã cơ bản tìm hiểu qua các thư viện mà mình đã giao
+-Mọi đóng góp các thành viên trong nhóm có thể sửa trong file này và mình sẽ là người kiểm duyệt
