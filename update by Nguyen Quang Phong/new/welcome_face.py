@@ -1,11 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun  3 15:36:49 2017
-
-@author: adam
-"""
-
 import cv2
 import numpy as np
 from keras.models import load_model
