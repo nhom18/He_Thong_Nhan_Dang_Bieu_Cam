@@ -1,0 +1,6 @@
+Báo cáo tiến độ công việc của nhóm
+1.hiện tại nhóm đã phát triển được hệ thống nhận dạng khuôn mặt trên form và hướng phát triển tiếp theo của nhóm như sau:
+-Nên đưa lên trên nền web(hiện tại đã code xong giao diện)
+-trong thời gian sắp tới sẽ đưa lên và chạy trên nền web (Nhúng django trong file html)
+-hướng phát triển tiếp theo mà mình muốn đề cập là nhận dạng biểu cảm qua welcome trên máy tính
+-Đây là một ứng dụng khó nên mọi người cố gắng hoàn thành tốt công việc mình đã giao trong các buổi họp nhóm
